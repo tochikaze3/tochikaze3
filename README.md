@@ -5,7 +5,7 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">i'm T-cee</h1>
 
 - 👀 I’m a polymath and i recently find 2d art and 2d Gaming quite intriguing.
-- 🌱 I’m currently into Dart/Flutter, Unity and 
+- 🌱 I’m currently into Dart/Flutter, Unity and Esports.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me; tochikaze3@gmail.com,Twitter:<a href="https://twitter.com/anyanwutochukw?s=20&t=Uq9v5st6_Z1ChSiWLiDIJA">@anyanwutochukw</a>
 
