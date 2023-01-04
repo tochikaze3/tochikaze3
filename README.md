@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">i'm T-cee</h1>
 
-- 👀 I’m interested in AI,blockchain and AR. Am also a professional gamer
-- 🌱 I’m currently into blockchain and dapps
-- 💞️ I’m looking to collaborate on any project that will help improve my skills.
-- 📫 How to reach me;tochikaze3@gmail.com, <span class="">Twitter:</span> <a href="https://twitter.com/anyanwutochukw?s=20&t=Uq9v5st6_Z1ChSiWLiDIJA">@anyanwutochukw</a>
+- 👀 I’m a polymath and i recently find 2d art and 2d Gaming quite intriguing.
+- 🌱 I’m currently into Dart/Flutter, Unity and 
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me; tochikaze3@gmail.com,Twitter:<a href="https://twitter.com/anyanwutochukw?s=20&t=Uq9v5st6_Z1ChSiWLiDIJA">@anyanwutochukw</a>
 
 
 
