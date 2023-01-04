@@ -7,7 +7,7 @@
 - 👀 I’m interested in AI,blockchain and AR. Am also a professional gamer
 - 🌱 I’m currently into blockchain and dapps
 - 💞️ I’m looking to collaborate on any project that will help improve my skills.
-- 📫 How to reach me;tochikaze3@gmail.com, twitter: @anyanwutochukw
+- 📫 How to reach me;tochikaze3@gmail.com, <span class="">Twitter:</span> <a href="https://twitter.com/anyanwutochukw?s=20&t=Uq9v5st6_Z1ChSiWLiDIJA">@anyanwutochukw</a>
 
 
 
